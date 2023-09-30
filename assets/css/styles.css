@@ -38,7 +38,7 @@ body {
 	background: white;
 	box-shadow: 3px 3px 3px red;
 	color: black
-	font-family: sans-serif;
+	font-family: arial;
 	padding: 2em;
 	margin: 2em;
 }
@@ -52,10 +52,10 @@ body {
 .tags {
 	color: black;
 	a:visited {
-		color: lime;
+		color: red;
 	}
 	a:hover {
-		color: seagreen;
+		color: red;
 	}
 	font-size: 1.3em;
 }
