@@ -6,7 +6,7 @@ body {
 /* anything in the navigation bar gets class nav */
 
 .nav {
-	font-family: sans-serif;
+	font-family: comic-sans;
 	background: white;
 	color: black;
 	display: inline;
@@ -29,7 +29,7 @@ body {
 }
 .title {
 	text-transform: lowercase;
-	font-family: sans-serif;
+	font-family: comic-sans;
 	color: lime;
 }
 
