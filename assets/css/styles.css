@@ -6,7 +6,7 @@ body {
 /* anything in the navigation bar gets class nav */
 
 .nav {
-	font-family: comic-sans;
+	font-family: comic-sans-chrome;
 	background: white;
 	color: black;
 	display: inline;
@@ -23,13 +23,13 @@ body {
 
 .postslist {
 	list-style: none;
-	font-family: comic-sans;
+	font-family: comic-sans-chrome;
 	color: black;
 
 }
 .title {
 	text-transform: lowercase;
-	font-family: comic-sans;
+	font-family: comic-sans-chrome;
 	color: lime;
 }
 
